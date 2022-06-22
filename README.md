@@ -2,8 +2,6 @@
 ### Geovanna Anjos
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B2AA4&lines=Hello!+My+name+is+Geovanna+Anjos;I'm+18+years+old;I'm+from+São+Paulo+-+Brazil;Be+Welcome+!)](https://git.io/typing-svg)
 
-![catgit](https://user-images.githubusercontent.com/62412557/174921608-d55a4fe5-39f5-4513-be26-9327e5c541dd.gif )
-
 <div>
   <a href="https://github.com/geovannaanjos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannaanjos&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,6 +14,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+### Estou aprendendo
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   
 ### Ferramentas
 
