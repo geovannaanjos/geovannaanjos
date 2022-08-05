@@ -1,6 +1,6 @@
 # Hello World!
 ### Geovanna Anjos
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B2AA4&lines=Hello!+My+name+is+Geovanna+Anjos;I'm+18+years+old;I'm+from+São+Paulo+-+Brazil;Be+Welcome+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B2AA4&lines=Hello!+My+name+is+Geovanna+Anjos;I'm+19+years+old;I'm+from+São+Paulo+-+Brazil;Be+Welcome+!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62412557/174926680-09a73d04-a392-4f17-8b0d-3aa55e103a67.gif" width="300" height="300" align= center>
