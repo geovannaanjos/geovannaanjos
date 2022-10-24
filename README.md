@@ -1,15 +1,63 @@
-# Hello World!
-### Geovanna Anjos
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B2AA4&lines=Hello!+My+name+is+Geovanna+Anjos;I'm+19+years+old;I'm+from+São+Paulo+-+Brazil;Be+Welcome+!)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/62412557/174926680-09a73d04-a392-4f17-8b0d-3aa55e103a67.gif" width="300" height="300" align= center>
-</p> 
+<h1 align='center'>
+  Hello, I'm Geovanna
+</h1>
+
+<p align='center'>
+  Full Stack Developer intern at Avanade Brasil 
+</p>
+
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=geovannaanjos&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
+<!-- <details align='center'>
+  <summary>:zap: My workspace specs</summary>
+</details>-->
+
+<p align='center'>
+  Email: <a href='mailto:geovanna.anjos92@gmail.com'>geovanna.anjos92@gmail.com</a>
+</p>
+
+
+<details>
+  <summary>📃 About me </summary>
   
-### Habilidades
+ ### About me
+ ```js
+  const anjos = {
+    me: {
+        name: 'Geovanna Anjos',
+        age: '19',
+        hobbies: ['drums', 'jiujitsu', 'dance'],
+        motivation: [
+          'To be able to develop technologies that have a positive impact on other people's lives',
+          'disseminate knowledge to those who do not have access to'
+        ],
+    }
+  }
+ ```
+</details>
+  
+<details>
+  <summary>💻 Technical </summary>
 
+### Education
 
-<div>
+- 📖 **Analysis and development of systems**\
+📆 2022 - 2024\
+📍 **University Impacta** - São Paulo, Brazil
+
+  
+### Skills
+
+<div align='center'>
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="80em"/>
@@ -21,22 +69,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="80em"/>
-          
-         
-         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="80em"/>
+ 
 </div>
 
-### Estudando
-<div>
+### Studying
+
+<div align='center'>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="80em"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="80em"/>
- </div>
-  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="80em" />
+          
+</div>
+ 
+</details>
   
 ### Contacts:
 
-<div>
-<a href="https://instagram.com/ge.anjosssss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:geovanna.anjos92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/geovanna-anjos12" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/geovanna-anjos12/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
