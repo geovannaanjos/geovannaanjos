@@ -36,7 +36,7 @@
         hobbies: ['drums', 'jiujitsu', 'dance'],
         motivation: [
           'To be able to develop technologies that have a positive impact on other people's lives',
-          'disseminate knowledge to those who do not have access to'
+          'disseminate knowledge to those who do not have access'
         ],
     }
   }
