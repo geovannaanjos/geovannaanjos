@@ -52,6 +52,10 @@
 📆 2022 - 2024\
 📍 **University Impacta** - São Paulo, Brazil
 
+
+### Microsoft Certified ☑️
+  * Microsoft Azure Data Fundamentals - DP-900
+  
   
 ### Skills
 
