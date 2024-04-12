@@ -29,11 +29,11 @@
   
  ### About me
  ```js
-  const anjos = {
+  const geo = {
     me: {
         name: 'Geovanna Anjos',
-        age: '19',
-        hobbies: ['drums', 'jiujitsu', 'dance'],
+        age: '20',
+        hobbies: ['drums', 'jiujitsu', 'learn languages'],
         motivation: [
           'To be able to develop technologies that have a positive impact on other people's lives',
           'disseminate knowledge to those who do not have access'
@@ -61,12 +61,11 @@
 
 <div align='center'>
   
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="80em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="80em" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="80em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="80em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="80em"/>
@@ -84,8 +83,7 @@
 ### Studying
 
 <div align='center'>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="80em" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="80em" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="80em" />
 </div>
  
 </details>
