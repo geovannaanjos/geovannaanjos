@@ -32,7 +32,7 @@
   const geo = {
     me: {
         name: 'Geovanna Anjos',
-        age: '20',
+        age: '21',
         hobbies: ['drums', 'jiujitsu', 'learn languages'],
         motivation: [
           'To be able to develop technologies that have a positive impact on other people's lives',
