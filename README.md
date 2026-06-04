@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Full Stack Developer intern at Avanade Brasil 
+  Software engineer at Avanade Brasil 
 </p>
 
 
@@ -32,7 +32,7 @@
   const geo = {
     me: {
         name: 'Geovanna Anjos',
-        age: '21',
+        age: '23',
         hobbies: ['drums', 'jiujitsu', 'learn languages'],
         motivation: [
           'To be able to develop technologies that have a positive impact on other people's lives',
@@ -55,7 +55,7 @@
 
 ### Microsoft Certified ☑️
   * Microsoft Azure Data Fundamentals - DP-900
-  
+  * Microsoft Azure AI Fundamentals - AI-900
   
 ### Skills
 
